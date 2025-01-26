@@ -4,6 +4,7 @@
 This repository has show you in my project. This project use openthaigpt version 1.0.0 this model base on Llama 2.5 and model can understand thai. and I tried to choose a model to Fine-tune in act of legislation in Thai
 ## I Fine-tune in google colab
 
+
 Prepare Dataset
 https://colab.research.google.com/drive/1lpzzMNQ5ObqenOxsd8x-FmULZz4V2JJ-?usp=sharing
 
