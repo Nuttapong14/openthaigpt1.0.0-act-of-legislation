@@ -1,0 +1,1 @@
+# openthaigpt1.0.0-act-of-legislation
